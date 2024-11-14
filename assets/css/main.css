@@ -156,7 +156,7 @@ h6 {
   z-index: 997;
   border-right: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
 }
-.header .profile-img img {
+.header .profile-  {
   margin: 15px auto;
   display: block;
   width: 120px;
@@ -168,7 +168,7 @@ h6 {
   margin-bottom: 15px;
 }
 
-.header .logo img {
+.header .logo  {
   max-height: 32px;
   margin-right: 8px;
 }
@@ -551,7 +551,7 @@ content
   justify-content: center;
 }
 
-.hero img {
+.hero  {
   position: absolute;
   inset: 0;
   display: block;
@@ -820,7 +820,7 @@ content
   overflow: hidden;
 }
 
-.portfolio .portfolio-content img {
+.portfolio .portfolio-content  {
   transition: 0.3s;
 }
 
@@ -881,7 +881,7 @@ content
   opacity: 1;
 }
 
-.portfolio .portfolio-content:hover img {
+.portfolio .portfolio-content:hover  {
   transform: scale(1.1);
 }
 
@@ -952,7 +952,7 @@ content
   min-height: 320px;
 }
 
-.testimonials .testimonial-item .testimonial-img {
+.testimonials .testimonial-item .testimonial- {
   width: 90px;
   border-radius: 50%;
   margin: 0 auto;
@@ -1139,7 +1139,7 @@ content
 /*--------------------------------------------------------------
 # Portfolio Details Section
 --------------------------------------------------------------*/
-.portfolio-details .portfolio-details-slider img {
+.portfolio-details .portfolio-details-slider  {
   width: 100%;
 }
 
@@ -1226,7 +1226,7 @@ content
   border-color: var(--accent-color);
 }
 
-.service-details .services-img {
+.service-details .services- {
   margin-bottom: 20px;
 }
 
