@@ -1014,16 +1014,16 @@ content
   left: calc(50% - 20px);
 }
 
-.testimonials .swiper-wrapper {
+.testimonials .-wrapper {
   height: auto;
 }
 
-.testimonials .swiper-pagination {
+.testimonials .-pagination {
   margin-top: 40px;
   position: relative;
 }
 
-.testimonials .swiper-pagination .swiper-pagination-bullet {
+.testimonials .-pagination .-pagination-bullet {
   width: 12px;
   height: 12px;
   background-color: var(--background-color);
@@ -1031,7 +1031,7 @@ content
   border: 1px solid var(--accent-color);
 }
 
-.testimonials .swiper-pagination .swiper-pagination-bullet-active {
+.testimonials .-pagination .-pagination-bullet-active {
   background-color: var(--accent-color);
 }
 
@@ -1143,19 +1143,19 @@ content
   width: 100%;
 }
 
-.portfolio-details .portfolio-details-slider .swiper-pagination {
+.portfolio-details .portfolio-details-slider .-pagination {
   margin-top: 20px;
   position: relative;
 }
 
-.portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet {
+.portfolio-details .portfolio-details-slider .-pagination .-pagination-bullet {
   width: 12px;
   height: 12px;
   background-color: color-mix(in srgb, var(--default-color), transparent 85%);
   opacity: 1;
 }
 
-.portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
+.portfolio-details .portfolio-details-slider .-pagination .-pagination-bullet-active {
   background-color: var(--accent-color);
 }
 
